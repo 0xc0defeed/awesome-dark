@@ -1,8 +1,8 @@
 Képernyőkép
 ----------
 
-![img](screenshots/default.png)
+![defaul](screenshots/default.png)
 
-![img](screenshots/media.png)
+![media](screenshots/media.png)
 
 További információért látogass el a [0xC0DEFEED](http://0xc0defeed.com/awesome-wm-dark-theme) blogra. 
