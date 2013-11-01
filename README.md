@@ -1,7 +1,7 @@
 Képernyőkép
 ----------
 
-![defaul](screenshots/default.png)
+![other](screenshots/other.png)
 
 ![media](screenshots/media.png)
 
